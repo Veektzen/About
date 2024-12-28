@@ -2,8 +2,8 @@
 
 #### About Me
 - 🎓 Undergraduate Student in Software Engineering
+- - 💻 Passionate about web development and modern JavaScript frameworks
 - 👏 Feel free to find/contact me on
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manos-tzenakis/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tzenveek@gmail.com)
 
@@ -13,6 +13,7 @@
 #### Top Languages
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 #### Top IDEs
 
