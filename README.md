@@ -17,7 +17,6 @@ Feel free to find/contact me on
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 #### Top IDEs
-
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-5C2D91.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%231877F2.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-5C2D91.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-green.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
